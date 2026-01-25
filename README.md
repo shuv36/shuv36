@@ -1,15 +1,14 @@
-## Hi there 👋
+## Hi there 👋 This Reaz Ul Alam
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... web development 
-- 🌱 I’m currently learning ...web development 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...web development 
-- 📫 How to reach me: ... Reaz Ul Alam
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Pro Coder
+🔭 Currently working on: Web Development
+🌱 Currently learning: Advanced Web Development
+👯 Looking to collaborate on: Real-world web projects & open-source
+🤔 Looking for help with: Improving performance & best practices
+💬 Ask me about: HTML, CSS, Tailwind CSS, JavaScript
+📫 How to reach me: Reaz Ul Alam
+😄 Pronouns: He/Him
+⚡ Fun fact: Passionate coder who loves turning ideas into clean, functional websites
 
 
 <div align="center">
