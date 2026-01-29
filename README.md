@@ -31,3 +31,32 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=shuv36&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuv36&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+
+
+<br>
+
+
+## :bulb: What I Trying To  Learn_
+
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/CSS.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Bootstrap.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Tailwind.png"/>
+</p>
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/React.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/ReactRouterDom.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Firebase.png"/>
+</p>
+<p align="center">
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/>
+<img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/>
+</p>
+
+<br />
+
