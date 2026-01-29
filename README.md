@@ -1,23 +1,6 @@
 ## Hi there 👋 This is Reaz Ul Alam
 
 
-🔭 Currently working on: Web Development
-
-🌱 Currently learning: Advanced Web Development
-
-👯 Looking to collaborate on: Real-world web projects & open-source
-
-🤔 Looking for help with: Improving performance & best practices
-
-💬 Ask me about: HTML, CSS, Tailwind CSS, JavaScript
-
-📫 How to reach me: Reaz Ul Alam
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: Passionate coder who loves turning ideas into clean, functional websites
-
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
