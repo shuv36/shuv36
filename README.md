@@ -27,7 +27,12 @@
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,firebase,express,tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase&theme=light" />
+</p>
+
+<p align="center">
+  🚀 Currently learning and improving my skills in  
+  <strong>HTML, CSS, JavaScript, React, Tailwind CSS & Firebase</strong>
 </p>
 
 ## 👀 Profile Views
