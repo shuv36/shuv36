@@ -2,76 +2,55 @@
 <h3 align="center">🚀 Frontend Developer | JavaScript Enthusiast | Future Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=JavaScript+Developer;Frontend+Engineer;Angular+%7C+Node.js;Learning+Every+Day!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=JavaScript+Developer;Frontend+Engineer;Angular+%7C+Node.js;Building+Cool+UI;Learning+Every+Day!" />
 </p>
-
----
-
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:db2777,100:facc15&height=140&section=header" />
 </p>
-
----
-
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-## 🚀 Tech Stack
+## ⚡ Animated Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,nextjs,mongodb,mysql,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,nextjs,mongodb,mysql,git&theme=light" />
 </p>
-
----
-
-
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="280"/>
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="260" />
 </p>
-
----
 
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,firebase,express,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,firebase,express,tailwind&theme=light" />
 </p>
-
----
-
-
----
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shuv36&label=Profile%20Views&color=0ea5e9&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shuv36&label=Profile%20Views&color=14b8a6&style=flat" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/shuv36">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-14b8a6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-db2777?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:db2777,100:14b8a6&height=140&section=footer" />
 </p>
 
-✨ **“Code • Build • Improve • Repeat”**
+<p align="center">
+  ✨ <strong>© Copy by Reaz Ul Alam</strong> ✨
+</p>
