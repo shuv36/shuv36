@@ -13,7 +13,7 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-## ⚡ Animated Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,nodejs,nextjs,mongodb,mysql,git&theme=light" />
